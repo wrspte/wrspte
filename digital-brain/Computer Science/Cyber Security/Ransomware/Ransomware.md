@@ -1,1 +1,0 @@
-Ransomware is a type of [malware](https://www.ibm.com/topics/malware) that holds a victim’s data or device hostage, threatening to keep it locked—or worse—unless the victim pays a ransom to the attacker.

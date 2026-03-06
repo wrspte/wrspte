@@ -1,1 +1,0 @@
-![[Android Software Stack.png]]
